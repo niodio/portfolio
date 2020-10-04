@@ -1,5 +1,5 @@
-# portifolio
-meu portifolio
+# Portfolio
+meu portfolio
 
 ## Tarefas
 
